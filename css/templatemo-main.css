@@ -347,8 +347,9 @@ section {
   border:4px solid #ff7d27;
 }
 
-.tabgroup div  {
-
+.tabgroup img  {
+  max-height: 500px;
+  min-width: 100%;
 }
 
 .tabgroup p {
